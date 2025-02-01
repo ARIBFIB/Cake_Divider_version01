@@ -53,7 +53,7 @@ Contributions are always welcome! Feel free to open an issue or submit a pull re
 ---
 
 ## 📧 **Contact**  
-Have questions or suggestions? Reach out to me at [your-abdulrehman286ib@gmail.com](mailto:abdulrehman286ib@gmail.com).  
+Have questions or suggestions? Reach out to me at [abdulrehman286ib@gmail.com](mailto:abdulrehman286ib@gmail.com).  
 
 ---
 
