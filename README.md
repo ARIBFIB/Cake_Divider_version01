@@ -34,6 +34,11 @@ Welcome to the **Cake Divider App** – your ultimate solution for dividing cake
 2. **Install Dependencies**:  
    ```bash
    flutter pub get
+   camera:
+   custom_flutter_painter: ^1.0.1
+   google_mlkit_object_detection:
+   tflite_flutter:
+   provider:
    ```
 3. **Run the App**:  
    ```bash
